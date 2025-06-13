@@ -24,7 +24,7 @@ This project is part of the Wasserstoff AI Intern Task by Shantanu Shinde.
 Here’s how the app looks in action! (Replace the GIF paths with actual files you create.)
 
 ### Document Upload and URL Input
-![Document Upload](docs/demo/document_upload.gif)
+![Document Upload](images/Screenshot(134).png)
 
 ### Asking a Question
 ![Asking a Question](docs/demo/ask_question.gif)
