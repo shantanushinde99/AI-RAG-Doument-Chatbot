@@ -41,15 +41,15 @@ Here’s how the app looks in action! (Replace the GIF paths with actual files y
 | **Python 3.11**       | <img src="https://www.python.org/static/community_logos/python-logo.png" width="50"> | Programming language used in a virtual environment. |
 | **Streamlit**         | <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="50"> | Framework for building the web interface. |
 | **LangChain**         | <img src="https://avatars.githubusercontent.com/u/108318121" width="50"> | Framework for building RAG applications. |
-| **Google Gemini**     | <img src="https://developers.google.com/static/gemini/images/gemini-icon.png" width="50"> | Generative AI for answering questions and theme synthesis. |
-| **FAISS**             | <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/.github/FAISS_logo.png" width="50"> | Vector store for efficient similarity search. |
-| **PyPDF2**            | <img src="https://pypdf2.readthedocs.io/en/stable/_static/pypdf2-logo.png" width="50"> | Library for extracting text from PDFs. |
-| **Tesseract OCR**     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tesseract_OCR_Logo.png/50px-Tesseract_OCR_Logo.png" width="50"> | OCR engine for extracting text from images. |
+| **Google Gemini**     | <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_open_graph_1.width-1300.png" width="50"> | Generative AI for answering questions and theme synthesis. |
+| **FAISS**             | <img src="https://360digitmg.com/uploads/blog/faiss-vector-database-coverpage.png" width="50"> | Vector store for efficient similarity search. |
+| **PyPDF2**            | <img src="https://miro.medium.com/v2/resize:fit:612/1*4P3Uspl6qpWoaajQdtKYKw.png" width="50"> | Library for extracting text from PDFs. |
+| **Tesseract OCR**     | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660124913170/yxa1mBPXi.jpeg" width="50"> | OCR engine for extracting text from images. |
 | **Pillow**            | <img src="https://pillow.readthedocs.io/en/stable/_static/pillow-logo-dark-text.png" width="50"> | Image processing library for handling image uploads. |
 | **Pandas**            | <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="50"> | Data manipulation for citation tables. |
 | **Requests**          | <img src="https://requests.readthedocs.io/en/master/_static/requests-sidebar.png" width="50"> | HTTP library for fetching URL content. |
 | **BeautifulSoup**     | <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" width="50"> | Library for parsing HTML content from URLs. |
-| **Tailwind CSS**      | <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345fb2.svg" width="50"> | CSS framework for styling the UI. |
+| **Tailwind CSS**      | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="50"> | CSS framework for styling the UI. |
 
 ---
 
@@ -128,13 +128,8 @@ Here’s how the app looks in action! (Replace the GIF paths with actual files y
 shantanu-shinde-wasserstoff-AiInternTask/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Python dependencies
-├── docs/               # Documentation and demo files
-│   └── demo/           # Directory for demo GIFs
-│       ├── document_upload.gif
-│       ├── ask_question.gif
-│       └── results.gif
-├── uploads/            # Temporary directory for uploaded files (created at runtime)
 └── faiss_index/        # Directory for FAISS index files (created at runtime)
+
 ```
 
 ---
