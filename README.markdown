@@ -1,9 +1,10 @@
-# AI Document Chatbot 📚
+# AI Document Chatbot 📚   
 
 A powerful Streamlit-based application to chat with your documents! Upload PDFs, images, or text files, provide URLs, and ask questions to get accurate answers with citations and recurring themes. Powered by LangChain, Google Gemini, and FAISS for advanced Retrieval-Augmented Generation (RAG).
 
 This project is part of the Wasserstoff AI Intern Task by Shantanu Shinde.
 
+[👉 TRY OUT NOW](https://shantanu-shinde-wasserstoff-aiinterntask-mqtehotw8i4fvivbrqyop.streamlit.app/)
 ---
 
 ## ✨ Features
