@@ -4,7 +4,7 @@ A powerful Streamlit-based application to chat with your documents! Upload PDFs,
 
 This project is part of the Wasserstoff AI Intern Task by Shantanu Shinde.
 
-[👉 TRY OUT NOW](https://shantanu-shinde-wasserstoff-aiinterntask-mqtehotw8i4fvivbrqyop.streamlit.app/)
+[👉 TRY OUT NOW ON STREAMLIT](https://shantanu-shinde-wasserstoff-aiinterntask-mqtehotw8i4fvivbrqyop.streamlit.app/)
 ---
 
 ## ✨ Features
