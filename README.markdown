@@ -21,7 +21,7 @@ This project is part of the Wasserstoff AI Intern Task by Shantanu Shinde.
 
 ## 📸 Demo
 
-Here’s how the app looks in action! (Replace the GIF paths with actual files you create.)
+Here’s how the app looks in action! 
 
 ### Document Upload and URL Input
 ![Document Upload](images/Screenshot(134).png)
@@ -32,6 +32,7 @@ Here’s how the app looks in action! (Replace the GIF paths with actual files y
 ### Viewing Results with Citations and Themes
 ![Results](images/Screenshot(133).png)
 
+[Code Understanding Tutorial](https://code2tutorial.com/tutorial/a74e1df2-c683-4e3b-8b92-fc2de3121273/index.md)
 ---
 
 ## 🛠️ Tech Stack
