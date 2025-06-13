@@ -27,10 +27,10 @@ Here’s how the app looks in action! (Replace the GIF paths with actual files y
 ![Document Upload](images/Screenshot(134).png)
 
 ### Asking a Question
-![Asking a Question](docs/demo/ask_question.gif)
+![Asking a Question](images/Screenshot(132).png)
 
 ### Viewing Results with Citations and Themes
-![Results](docs/demo/results.gif)
+![Results](images/Screenshot(133).png)
 
 ---
 
