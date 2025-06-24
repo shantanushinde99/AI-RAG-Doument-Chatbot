@@ -68,8 +68,8 @@ Here’s how the app looks in action!
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/shantanushinde99/shantanu-shinde-wasserstoff-AiInternTask.git
-   cd shantanu-shinde-wasserstoff-AiInternTask
+   git clone https://github.com/shantanushinde99/AI-RAG-Doument-Chatbot.git
+   cd AI-RAG-Doument-Chatbot
    ```
 
 2. **Create a Virtual Environment with Python 3.11**
@@ -127,7 +127,7 @@ Here’s how the app looks in action!
 ## 🗂️ Project Structure
 
 ```
-shantanu-shinde-wasserstoff-AiInternTask/
+AI-RAG-Doument-Chatbot/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Python dependencies
 └── faiss_index/        # Directory for FAISS index files (created at runtime)
